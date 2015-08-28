@@ -1,7 +1,4 @@
 #!/usr/bin/python3
-# description : all site bcf to fasta 
-# usage : bcftools view [allsite.bcf] | python3 [thisfile]
-
 #Gm01	39	.	T	.	90	.	DP=26;AF1=0;AC1=0;DP4=18,2,0,0;MQ=36;FQ=-87	PL	0
 #Gm01	30	.	T	G	23	.	DP=14;VDB=0.0008;AF1=0.5;AC1=1;DP4=3,0,6,0;MQ=41;FQ=26;PV4=1,0.026,4e-05,1	GT:PL:GQ	0/1:53,0,71:56
 #Gm01	79	.	GTT	.	9.1	.	INDEL;DP=44;VDB=0.0124;AF1=0.4997;AC1=1;DP4=16,8,3,2;MQ=39;FQ=-6.6;PV4=1,1,0.08,0.00066	PL	29
