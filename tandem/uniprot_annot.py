@@ -1,7 +1,7 @@
 #!/usr/bin/python3 
 
 import kang,sys
-
+#uniprot_sprot.fasta can be downloaded from uniprot webpage
 file_fa = 'uniprot_sprot.fasta'
 file_bo	= sys.argv[1]#'uniprot_sprot.fasta.bx.na1.out7'
 Outfile	= open(file_bo+'.annot','w')
