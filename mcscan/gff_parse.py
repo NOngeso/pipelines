@@ -6,7 +6,7 @@ for line in open(file_gff):
 	if line[0] == '#':
 		continue
 	cell = line.strip().split('\t')
-	strChr = cell[0].replace('scaffold_','s')
+	strChr = cell[0].replace('scaffold_','s').replace('Scaffold','s')
 	strL1	= cell[3]
 	strL2	= cell[4]
 	strTP	= cell[2]
