@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 import sys
+import matplotlib.pyplot as plt
 import numpy as np
 from scipy.stats import gaussian_kde
 import seaborn as sns
@@ -30,11 +31,11 @@ max_y = density(xs)[aa]
 
 plt.plot(xs,density(xs))
 
-plt.annotate('Most recent duplication', xy=(max_x, max_y), xytext=(max_x+0.3, max_y+0.1),
+plt.annotate('Peak at Ks %f'%round(xs[aa],3), xy=(max_x, max_y), xytext=(max_x+0.3, max_y+0.1),
             arrowprops=dict(facecolor='black', shrink=0.05),
             )
 
 plt.ylabel('Density')
 plt.xlabel('Ks value')
-plt.savefig('out.png', dpi=300)
+plt.savefig('%s.ks_dist.png'%sys.argv[2], dpi=300)
 plt.show()
