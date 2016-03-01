@@ -1,0 +1,27 @@
+<svg height="500" width="500">
+<line x1="200" y1="200" x2="215" y2="200" stroke="blue" stroke-width="1" />
+<circle cx="215" cy="200" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:1.000000;stroke-opacity:0.9" />
+<text text-anchor="middle" x="215" y="201" fill="black" font-size="8px">1</text>
+<text text-anchor="left" x="200" y="310" fill="black" font-size="10px">Thhalv10006625m</text>
+<line x1="200" y1="200" x2="161" y2="197" stroke="blue" stroke-width="1" />
+<circle cx="161" cy="197" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.511103;stroke-opacity:0.9" />
+<text text-anchor="middle" x="161" y="198" fill="black" font-size="8px">2</text>
+<text text-anchor="left" x="200" y="320" fill="black" font-size="10px">Thhalv10003554m</text>
+<line x1="200" y1="200" x2="160" y2="198" stroke="blue" stroke-width="1" />
+<circle cx="160" cy="198" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.506083;stroke-opacity:0.9" />
+<text text-anchor="middle" x="160" y="199" fill="black" font-size="8px">3</text>
+<text text-anchor="left" x="200" y="330" fill="black" font-size="10px">Thhalv10024253m</text>
+<line x1="200" y1="200" x2="158" y2="227" stroke="blue" stroke-width="1" />
+<circle cx="158" cy="227" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.406556;stroke-opacity:0.9" />
+<text text-anchor="middle" x="158" y="228" fill="black" font-size="8px">4</text>
+<text text-anchor="left" x="200" y="340" fill="black" font-size="10px">Thhalv10019978m</text>
+<line x1="200" y1="200" x2="276" y2="257" stroke="blue" stroke-width="1" />
+<circle cx="276" cy="257" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.102115;stroke-opacity:0.9" />
+<text text-anchor="middle" x="276" y="258" fill="black" font-size="8px">5</text>
+<text text-anchor="left" x="200" y="350" fill="black" font-size="10px">Thhalv10019978m</text>
+<line x1="200" y1="200" x2="157" y2="222" stroke="blue" stroke-width="1" />
+<circle cx="157" cy="222" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.421452;stroke-opacity:0.9" />
+<text text-anchor="middle" x="157" y="223" fill="black" font-size="8px">6</text>
+<text text-anchor="left" x="200" y="360" fill="black" font-size="10px">Thhalv10024375m</text>
+<circle cx="200" cy="200" r="10"               style="fill:red;stroke:black;stroke-width:1;fill-opacity:1.000000;stroke-opacity:0.9" />
+</svg>

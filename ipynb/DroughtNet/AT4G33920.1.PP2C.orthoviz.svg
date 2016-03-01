@@ -1,0 +1,398 @@
+<svg height="500" width="1200">
+<text text-anchor="middle" x="200" y="150" fill="black" font-size="15px">AT4G33920.1</text>
+<text text-anchor="middle" x="200" y="130" fill="black" font-size="15px" font-style = "italic">A.thaliana</text>
+<text text-anchor="middle" x="400" y="130" fill="black" font-size="15px" font-style = "italic">A.lyrata</text>
+<text text-anchor="middle" x="600" y="130" fill="black" font-size="15px" font-style = "italic">E.salsugineum</text>
+<text text-anchor="middle" x="800" y="130" fill="black" font-size="15px" font-style = "italic">A.halleri</text>
+<text text-anchor="middle" x="1000" y="130" fill="black" font-size="15px" font-style = "italic">A.halleri_transcriptome</text>
+<text text-anchor="middle" x="100" y="110" fill="black" font-size="15px">PP2C</text>
+<line x1="200" y1="200" x2="215" y2="200" stroke="blue" stroke-width="1" />
+<circle cx="215" cy="200" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:1.000000;stroke-opacity:0.9" />
+<text text-anchor="middle" x="215" y="201" fill="black" font-size="8px">1</text>
+<text text-anchor="left" x="200" y="310" fill="black" font-size="10px">1 AT4G33920</text>
+<line x1="200" y1="200" x2="161" y2="195" stroke="blue" stroke-width="1" />
+<circle cx="161" cy="195" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.517733;stroke-opacity:0.9" />
+<text text-anchor="middle" x="161" y="196" fill="black" font-size="8px">2</text>
+<text text-anchor="left" x="200" y="320" fill="black" font-size="10px">2 AT3G51370</text>
+<line x1="200" y1="200" x2="162" y2="194" stroke="blue" stroke-width="1" />
+<circle cx="162" cy="194" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.524123;stroke-opacity:0.9" />
+<text text-anchor="middle" x="162" y="195" fill="black" font-size="8px">3</text>
+<text text-anchor="left" x="200" y="330" fill="black" font-size="10px">3 AT5G66080</text>
+<line x1="200" y1="200" x2="157" y2="208" stroke="blue" stroke-width="1" />
+<circle cx="157" cy="208" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.469650;stroke-opacity:0.9" />
+<text text-anchor="middle" x="157" y="209" fill="black" font-size="8px">4</text>
+<text text-anchor="left" x="200" y="340" fill="black" font-size="10px">4 AT5G06750</text>
+<line x1="200" y1="200" x2="159" y2="201" stroke="blue" stroke-width="1" />
+<circle cx="159" cy="201" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.493588;stroke-opacity:0.9" />
+<text text-anchor="middle" x="159" y="202" fill="black" font-size="8px">5</text>
+<text text-anchor="left" x="200" y="350" fill="black" font-size="10px">5 AT4G38520</text>
+<line x1="200" y1="200" x2="159" y2="201" stroke="blue" stroke-width="1" />
+<circle cx="159" cy="201" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.492819;stroke-opacity:0.9" />
+<text text-anchor="middle" x="159" y="202" fill="black" font-size="8px">6</text>
+<text text-anchor="left" x="200" y="360" fill="black" font-size="10px">6 AT3G12620</text>
+<line x1="200" y1="200" x2="158" y2="203" stroke="blue" stroke-width="1" />
+<circle cx="158" cy="203" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.485612;stroke-opacity:0.9" />
+<text text-anchor="middle" x="158" y="204" fill="black" font-size="8px">7</text>
+<text text-anchor="left" x="200" y="370" fill="black" font-size="10px">7 AT3G55050</text>
+<line x1="200" y1="200" x2="158" y2="205" stroke="blue" stroke-width="1" />
+<circle cx="158" cy="205" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.477818;stroke-opacity:0.9" />
+<text text-anchor="middle" x="158" y="206" fill="black" font-size="8px">8</text>
+<text text-anchor="left" x="200" y="380" fill="black" font-size="10px">8 AT3G17090</text>
+<line x1="200" y1="200" x2="158" y2="204" stroke="blue" stroke-width="1" />
+<circle cx="158" cy="204" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.484018;stroke-opacity:0.9" />
+<text text-anchor="middle" x="158" y="205" fill="black" font-size="8px">9</text>
+<text text-anchor="left" x="200" y="390" fill="black" font-size="10px">9 AT5G02760</text>
+<line x1="200" y1="200" x2="223" y2="275" stroke="blue" stroke-width="1" />
+<circle cx="223" cy="275" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.201164;stroke-opacity:0.9" />
+<text text-anchor="middle" x="223" y="276" fill="black" font-size="8px">10</text>
+<text text-anchor="left" x="200" y="400" fill="black" font-size="10px">10 AT3G16560</text>
+<line x1="200" y1="200" x2="245" y2="272" stroke="blue" stroke-width="1" />
+<circle cx="245" cy="272" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.161000;stroke-opacity:0.9" />
+<text text-anchor="middle" x="245" y="273" fill="black" font-size="8px">11</text>
+<text text-anchor="left" x="200" y="410" fill="black" font-size="10px">11 PLL2</text>
+<line x1="200" y1="200" x2="247" y2="271" stroke="blue" stroke-width="1" />
+<circle cx="247" cy="271" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.156957;stroke-opacity:0.9" />
+<text text-anchor="middle" x="247" y="272" fill="black" font-size="8px">12</text>
+<text text-anchor="left" x="200" y="420" fill="black" font-size="10px">12 PLL3</text>
+<line x1="200" y1="200" x2="212" y2="274" stroke="blue" stroke-width="1" />
+<circle cx="212" cy="274" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.223118;stroke-opacity:0.9" />
+<text text-anchor="middle" x="212" y="275" fill="black" font-size="8px">13</text>
+<text text-anchor="left" x="200" y="430" fill="black" font-size="10px">13 AT1G07160</text>
+<line x1="200" y1="200" x2="211" y2="274" stroke="blue" stroke-width="1" />
+<circle cx="211" cy="274" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.225362;stroke-opacity:0.9" />
+<text text-anchor="middle" x="211" y="275" fill="black" font-size="8px">14</text>
+<text text-anchor="left" x="200" y="440" fill="black" font-size="10px">14 PP2C5</text>
+<line x1="200" y1="200" x2="225" y2="275" stroke="blue" stroke-width="1" />
+<circle cx="225" cy="275" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.198303;stroke-opacity:0.9" />
+<text text-anchor="middle" x="225" y="276" fill="black" font-size="8px">15</text>
+<text text-anchor="left" x="200" y="450" fill="black" font-size="10px">15 AT1G67820</text>
+<line x1="200" y1="200" x2="218" y2="274" stroke="blue" stroke-width="1" />
+<circle cx="218" cy="274" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.210670;stroke-opacity:0.9" />
+<text text-anchor="middle" x="218" y="275" fill="black" font-size="8px">16</text>
+<text text-anchor="left" x="200" y="460" fill="black" font-size="10px">16 WIN2</text>
+<line x1="200" y1="200" x2="226" y2="275" stroke="blue" stroke-width="1" />
+<circle cx="226" cy="275" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.196561;stroke-opacity:0.9" />
+<text text-anchor="middle" x="226" y="276" fill="black" font-size="8px">17</text>
+<text text-anchor="left" x="200" y="470" fill="black" font-size="10px">17 AT1G43900</text>
+<line x1="200" y1="200" x2="217" y2="274" stroke="blue" stroke-width="1" />
+<circle cx="217" cy="274" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.212570;stroke-opacity:0.9" />
+<text text-anchor="middle" x="217" y="275" fill="black" font-size="8px">18</text>
+<text text-anchor="left" x="200" y="480" fill="black" font-size="10px">18 PP2CG1</text>
+<circle cx="200" cy="200" r="10"               style="fill:red;stroke:black;stroke-width:1;fill-opacity:1.000000;stroke-opacity:0.9" />
+<text text-anchor="middle" x="400" y="150" fill="black" font-size="15px">491286</text>
+<line x1="400" y1="200" x2="415" y2="200" stroke="blue" stroke-width="1" />
+<circle cx="415" cy="200" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:1.000000;stroke-opacity:0.9" />
+<text text-anchor="middle" x="415" y="201" fill="black" font-size="8px">1</text>
+<text text-anchor="left" x="400" y="310" fill="black" font-size="10px">491286.0</text>
+<line x1="400" y1="200" x2="361" y2="196" stroke="blue" stroke-width="1" />
+<circle cx="361" cy="196" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.513251;stroke-opacity:0.9" />
+<text text-anchor="middle" x="361" y="197" fill="black" font-size="8px">2</text>
+<text text-anchor="left" x="400" y="320" fill="black" font-size="10px">485488.0</text>
+<line x1="400" y1="200" x2="358" y2="203" stroke="blue" stroke-width="1" />
+<circle cx="358" cy="203" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.486772;stroke-opacity:0.9" />
+<text text-anchor="middle" x="358" y="204" fill="black" font-size="8px">3</text>
+<text text-anchor="left" x="400" y="330" fill="black" font-size="10px">487487.0</text>
+<line x1="400" y1="200" x2="359" y2="202" stroke="blue" stroke-width="1" />
+<circle cx="359" cy="202" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.491687;stroke-opacity:0.9" />
+<text text-anchor="middle" x="359" y="203" fill="black" font-size="8px">4</text>
+<text text-anchor="left" x="400" y="340" fill="black" font-size="10px">490616.0</text>
+<line x1="400" y1="200" x2="358" y2="205" stroke="blue" stroke-width="1" />
+<circle cx="358" cy="205" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.479124;stroke-opacity:0.9" />
+<text text-anchor="middle" x="358" y="206" fill="black" font-size="8px">5</text>
+<text text-anchor="left" x="400" y="350" fill="black" font-size="10px">478621.0</text>
+<line x1="400" y1="200" x2="357" y2="207" stroke="blue" stroke-width="1" />
+<circle cx="357" cy="207" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.472572;stroke-opacity:0.9" />
+<text text-anchor="middle" x="357" y="208" fill="black" font-size="8px">6</text>
+<text text-anchor="left" x="400" y="360" fill="black" font-size="10px">938434.0</text>
+<line x1="400" y1="200" x2="357" y2="209" stroke="blue" stroke-width="1" />
+<circle cx="357" cy="209" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.464757;stroke-opacity:0.9" />
+<text text-anchor="middle" x="357" y="210" fill="black" font-size="8px">7</text>
+<text text-anchor="left" x="400" y="370" fill="black" font-size="10px">479178.0</text>
+<line x1="400" y1="200" x2="358" y2="206" stroke="blue" stroke-width="1" />
+<circle cx="358" cy="206" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.476069;stroke-opacity:0.9" />
+<text text-anchor="middle" x="358" y="207" fill="black" font-size="8px">8</text>
+<text text-anchor="left" x="400" y="380" fill="black" font-size="10px">939651.0</text>
+<line x1="400" y1="200" x2="357" y2="213" stroke="blue" stroke-width="1" />
+<circle cx="357" cy="213" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.452565;stroke-opacity:0.9" />
+<text text-anchor="middle" x="357" y="214" fill="black" font-size="8px">9</text>
+<text text-anchor="left" x="400" y="390" fill="black" font-size="10px">497008.0</text>
+<line x1="400" y1="200" x2="422" y2="275" stroke="blue" stroke-width="1" />
+<circle cx="422" cy="275" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.203219;stroke-opacity:0.9" />
+<text text-anchor="middle" x="422" y="276" fill="black" font-size="8px">10</text>
+<text text-anchor="left" x="400" y="400" fill="black" font-size="10px">479119.0</text>
+<line x1="400" y1="200" x2="447" y2="271" stroke="blue" stroke-width="1" />
+<circle cx="447" cy="271" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.157062;stroke-opacity:0.9" />
+<text text-anchor="middle" x="447" y="272" fill="black" font-size="8px">11</text>
+<text text-anchor="left" x="400" y="410" fill="black" font-size="10px">349536.0</text>
+<line x1="400" y1="200" x2="411" y2="274" stroke="blue" stroke-width="1" />
+<circle cx="411" cy="274" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.224778;stroke-opacity:0.9" />
+<text text-anchor="middle" x="411" y="275" fill="black" font-size="8px">12</text>
+<text text-anchor="left" x="400" y="420" fill="black" font-size="10px">901965.0</text>
+<line x1="400" y1="200" x2="412" y2="274" stroke="blue" stroke-width="1" />
+<circle cx="412" cy="274" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.224285;stroke-opacity:0.9" />
+<text text-anchor="middle" x="412" y="275" fill="black" font-size="8px">13</text>
+<text text-anchor="left" x="400" y="430" fill="black" font-size="10px">470736.0</text>
+<line x1="400" y1="200" x2="417" y2="274" stroke="blue" stroke-width="1" />
+<circle cx="417" cy="274" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.212557;stroke-opacity:0.9" />
+<text text-anchor="middle" x="417" y="275" fill="black" font-size="8px">14</text>
+<text text-anchor="left" x="400" y="440" fill="black" font-size="10px">489354.0</text>
+<line x1="400" y1="200" x2="415" y2="274" stroke="blue" stroke-width="1" />
+<circle cx="415" cy="274" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.218262;stroke-opacity:0.9" />
+<text text-anchor="middle" x="415" y="275" fill="black" font-size="8px">15</text>
+<text text-anchor="left" x="400" y="450" fill="black" font-size="10px">481911.0</text>
+<line x1="400" y1="200" x2="426" y2="275" stroke="blue" stroke-width="1" />
+<circle cx="426" cy="275" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.195224;stroke-opacity:0.9" />
+<text text-anchor="middle" x="426" y="276" fill="black" font-size="8px">16</text>
+<text text-anchor="left" x="400" y="460" fill="black" font-size="10px">913593.0</text>
+<line x1="400" y1="200" x2="419" y2="274" stroke="blue" stroke-width="1" />
+<circle cx="419" cy="274" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.209986;stroke-opacity:0.9" />
+<text text-anchor="middle" x="419" y="275" fill="black" font-size="8px">17</text>
+<text text-anchor="left" x="400" y="470" fill="black" font-size="10px">933956.0</text>
+<circle cx="400" cy="200" r="10"               style="fill:red;stroke:black;stroke-width:1;fill-opacity:1.000000;stroke-opacity:0.9" />
+<text text-anchor="middle" x="600" y="150" fill="black" font-size="15px">Thhalv10025460m</text>
+<line x1="600" y1="200" x2="615" y2="200" stroke="blue" stroke-width="1" />
+<circle cx="615" cy="200" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:1.000000;stroke-opacity:0.9" />
+<text text-anchor="middle" x="615" y="201" fill="black" font-size="8px">1</text>
+<text text-anchor="left" x="600" y="310" fill="black" font-size="10px">Thhalv10025460m</text>
+<line x1="600" y1="200" x2="558" y2="206" stroke="blue" stroke-width="1" />
+<circle cx="558" cy="206" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.476784;stroke-opacity:0.9" />
+<text text-anchor="middle" x="558" y="207" fill="black" font-size="8px">2</text>
+<text text-anchor="left" x="600" y="320" fill="black" font-size="10px">Thhalv10013750m</text>
+<line x1="600" y1="200" x2="561" y2="197" stroke="blue" stroke-width="1" />
+<circle cx="561" cy="197" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.510499;stroke-opacity:0.9" />
+<text text-anchor="middle" x="561" y="198" fill="black" font-size="8px">3</text>
+<text text-anchor="left" x="600" y="330" fill="black" font-size="10px">Thhalv10010452m</text>
+<line x1="600" y1="200" x2="559" y2="200" stroke="blue" stroke-width="1" />
+<circle cx="559" cy="200" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.498084;stroke-opacity:0.9" />
+<text text-anchor="middle" x="559" y="201" fill="black" font-size="8px">4</text>
+<text text-anchor="left" x="600" y="340" fill="black" font-size="10px">Thhalv10025386m</text>
+<line x1="600" y1="200" x2="559" y2="202" stroke="blue" stroke-width="1" />
+<circle cx="559" cy="202" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.491538;stroke-opacity:0.9" />
+<text text-anchor="middle" x="559" y="203" fill="black" font-size="8px">5</text>
+<text text-anchor="left" x="600" y="350" fill="black" font-size="10px">Thhalv10020905m</text>
+<line x1="600" y1="200" x2="557" y2="209" stroke="blue" stroke-width="1" />
+<circle cx="557" cy="209" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.466540;stroke-opacity:0.9" />
+<text text-anchor="middle" x="557" y="210" fill="black" font-size="8px">6</text>
+<text text-anchor="left" x="600" y="360" fill="black" font-size="10px">Thhalv10020928m</text>
+<line x1="600" y1="200" x2="558" y2="206" stroke="blue" stroke-width="1" />
+<circle cx="558" cy="206" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.475844;stroke-opacity:0.9" />
+<text text-anchor="middle" x="558" y="207" fill="black" font-size="8px">7</text>
+<text text-anchor="left" x="600" y="370" fill="black" font-size="10px">Thhalv10010445m</text>
+<line x1="600" y1="200" x2="558" y2="204" stroke="blue" stroke-width="1" />
+<circle cx="558" cy="204" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.481380;stroke-opacity:0.9" />
+<text text-anchor="middle" x="558" y="205" fill="black" font-size="8px">8</text>
+<text text-anchor="left" x="600" y="380" fill="black" font-size="10px">Thhalv10013867m</text>
+<line x1="600" y1="200" x2="626" y2="275" stroke="blue" stroke-width="1" />
+<circle cx="626" cy="275" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.196379;stroke-opacity:0.9" />
+<text text-anchor="middle" x="626" y="276" fill="black" font-size="8px">9</text>
+<text text-anchor="left" x="600" y="390" fill="black" font-size="10px">Thhalv10020557m</text>
+<line x1="600" y1="200" x2="629" y2="274" stroke="blue" stroke-width="1" />
+<circle cx="629" cy="274" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.189626;stroke-opacity:0.9" />
+<text text-anchor="middle" x="629" y="275" fill="black" font-size="8px">10</text>
+<text text-anchor="left" x="600" y="400" fill="black" font-size="10px">Thhalv10018643m</text>
+<line x1="600" y1="200" x2="626" y2="275" stroke="blue" stroke-width="1" />
+<circle cx="626" cy="275" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.196858;stroke-opacity:0.9" />
+<text text-anchor="middle" x="626" y="276" fill="black" font-size="8px">11</text>
+<text text-anchor="left" x="600" y="410" fill="black" font-size="10px">Thhalv10017681m</text>
+<line x1="600" y1="200" x2="605" y2="272" stroke="blue" stroke-width="1" />
+<circle cx="605" cy="272" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.238838;stroke-opacity:0.9" />
+<text text-anchor="middle" x="605" y="273" fill="black" font-size="8px">12</text>
+<text text-anchor="left" x="600" y="420" fill="black" font-size="10px">Thhalv10008595m</text>
+<line x1="600" y1="200" x2="628" y2="275" stroke="blue" stroke-width="1" />
+<circle cx="628" cy="275" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.192783;stroke-opacity:0.9" />
+<text text-anchor="middle" x="628" y="276" fill="black" font-size="8px">13</text>
+<text text-anchor="left" x="600" y="430" fill="black" font-size="10px">Thhalv10011591m</text>
+<line x1="600" y1="200" x2="647" y2="271" stroke="blue" stroke-width="1" />
+<circle cx="647" cy="271" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.156699;stroke-opacity:0.9" />
+<text text-anchor="middle" x="647" y="272" fill="black" font-size="8px">14</text>
+<text text-anchor="left" x="600" y="440" fill="black" font-size="10px">Thhalv10027202m</text>
+<line x1="600" y1="200" x2="626" y2="275" stroke="blue" stroke-width="1" />
+<circle cx="626" cy="275" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.195929;stroke-opacity:0.9" />
+<text text-anchor="middle" x="626" y="276" fill="black" font-size="8px">15</text>
+<text text-anchor="left" x="600" y="450" fill="black" font-size="10px">Thhalv10017990m</text>
+<circle cx="600" cy="200" r="10"               style="fill:red;stroke:black;stroke-width:1;fill-opacity:1.000000;stroke-opacity:0.9" />
+<text text-anchor="middle" x="800" y="150" fill="black" font-size="15px">Araha.3468s0001.1.p</text>
+<line x1="800" y1="200" x2="815" y2="200" stroke="blue" stroke-width="1" />
+<circle cx="815" cy="200" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:1.000000;stroke-opacity:0.9" />
+<text text-anchor="middle" x="815" y="201" fill="black" font-size="8px">1</text>
+<text text-anchor="left" x="800" y="310" fill="black" font-size="10px">Araha.3468s0001.1</text>
+<line x1="800" y1="200" x2="763" y2="192" stroke="blue" stroke-width="1" />
+<circle cx="763" cy="192" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.530885;stroke-opacity:0.9" />
+<text text-anchor="middle" x="763" y="193" fill="black" font-size="8px">2</text>
+<text text-anchor="left" x="800" y="320" fill="black" font-size="10px">Araha.18525s0002.1</text>
+<line x1="800" y1="200" x2="758" y2="203" stroke="blue" stroke-width="1" />
+<circle cx="758" cy="203" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.486938;stroke-opacity:0.9" />
+<text text-anchor="middle" x="758" y="204" fill="black" font-size="8px">3</text>
+<text text-anchor="left" x="800" y="330" fill="black" font-size="10px">Araha.11737s0015.1</text>
+<line x1="800" y1="200" x2="757" y2="206" stroke="blue" stroke-width="1" />
+<circle cx="757" cy="206" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.475185;stroke-opacity:0.9" />
+<text text-anchor="middle" x="757" y="207" fill="black" font-size="8px">4</text>
+<text text-anchor="left" x="800" y="340" fill="black" font-size="10px">Araha.16377s0002.1</text>
+<line x1="800" y1="200" x2="758" y2="205" stroke="blue" stroke-width="1" />
+<circle cx="758" cy="205" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.477827;stroke-opacity:0.9" />
+<text text-anchor="middle" x="758" y="206" fill="black" font-size="8px">5</text>
+<text text-anchor="left" x="800" y="350" fill="black" font-size="10px">Araha.2258s0011.1</text>
+<line x1="800" y1="200" x2="758" y2="204" stroke="blue" stroke-width="1" />
+<circle cx="758" cy="204" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.481368;stroke-opacity:0.9" />
+<text text-anchor="middle" x="758" y="205" fill="black" font-size="8px">6</text>
+<text text-anchor="left" x="800" y="360" fill="black" font-size="10px">Araha.8306s0009.1</text>
+<line x1="800" y1="200" x2="757" y2="220" stroke="blue" stroke-width="1" />
+<circle cx="757" cy="220" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.430400;stroke-opacity:0.9" />
+<text text-anchor="middle" x="757" y="221" fill="black" font-size="8px">7</text>
+<text text-anchor="left" x="800" y="370" fill="black" font-size="10px">Araha.0214s0004.1</text>
+<line x1="800" y1="200" x2="757" y2="223" stroke="blue" stroke-width="1" />
+<circle cx="757" cy="223" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.421053;stroke-opacity:0.9" />
+<text text-anchor="middle" x="757" y="224" fill="black" font-size="8px">8</text>
+<text text-anchor="left" x="800" y="380" fill="black" font-size="10px">Araha.1084s0049.1</text>
+<line x1="800" y1="200" x2="760" y2="235" stroke="blue" stroke-width="1" />
+<circle cx="760" cy="235" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.382601;stroke-opacity:0.9" />
+<text text-anchor="middle" x="760" y="236" fill="black" font-size="8px">9</text>
+<text text-anchor="left" x="800" y="390" fill="black" font-size="10px">Araha.59933s0001.1</text>
+<line x1="800" y1="200" x2="820" y2="275" stroke="blue" stroke-width="1" />
+<circle cx="820" cy="275" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.207554;stroke-opacity:0.9" />
+<text text-anchor="middle" x="820" y="276" fill="black" font-size="8px">10</text>
+<text text-anchor="left" x="800" y="400" fill="black" font-size="10px">Araha.14088s0006.1</text>
+<line x1="800" y1="200" x2="843" y2="272" stroke="blue" stroke-width="1" />
+<circle cx="843" cy="272" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.164097;stroke-opacity:0.9" />
+<text text-anchor="middle" x="843" y="273" fill="black" font-size="8px">11</text>
+<text text-anchor="left" x="800" y="410" fill="black" font-size="10px">Araha.31503s0003.1</text>
+<line x1="800" y1="200" x2="842" y2="273" stroke="blue" stroke-width="1" />
+<circle cx="842" cy="273" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.166181;stroke-opacity:0.9" />
+<text text-anchor="middle" x="842" y="274" fill="black" font-size="8px">12</text>
+<text text-anchor="left" x="800" y="420" fill="black" font-size="10px">Araha.29206s0002.1</text>
+<line x1="800" y1="200" x2="816" y2="274" stroke="blue" stroke-width="1" />
+<circle cx="816" cy="274" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.215010;stroke-opacity:0.9" />
+<text text-anchor="middle" x="816" y="275" fill="black" font-size="8px">13</text>
+<text text-anchor="left" x="800" y="430" fill="black" font-size="10px">Araha.9569s0001.1</text>
+<line x1="800" y1="200" x2="799" y2="270" stroke="blue" stroke-width="1" />
+<circle cx="799" cy="270" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.252227;stroke-opacity:0.9" />
+<text text-anchor="middle" x="799" y="271" fill="black" font-size="8px">14</text>
+<text text-anchor="left" x="800" y="440" fill="black" font-size="10px">Araha.14705s0003.1</text>
+<line x1="800" y1="200" x2="810" y2="273" stroke="blue" stroke-width="1" />
+<circle cx="810" cy="273" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.227980;stroke-opacity:0.9" />
+<text text-anchor="middle" x="810" y="274" fill="black" font-size="8px">15</text>
+<text text-anchor="left" x="800" y="450" fill="black" font-size="10px">Araha.6515s0002.1</text>
+<line x1="800" y1="200" x2="817" y2="274" stroke="blue" stroke-width="1" />
+<circle cx="817" cy="274" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.212609;stroke-opacity:0.9" />
+<text text-anchor="middle" x="817" y="275" fill="black" font-size="8px">16</text>
+<text text-anchor="left" x="800" y="460" fill="black" font-size="10px">Araha.2637s0001.1</text>
+<line x1="800" y1="200" x2="833" y2="274" stroke="blue" stroke-width="1" />
+<circle cx="833" cy="274" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.182155;stroke-opacity:0.9" />
+<text text-anchor="middle" x="833" y="275" fill="black" font-size="8px">17</text>
+<text text-anchor="left" x="800" y="470" fill="black" font-size="10px">Araha.17735s0001.1</text>
+<circle cx="800" cy="200" r="10"               style="fill:red;stroke:black;stroke-width:1;fill-opacity:1.000000;stroke-opacity:0.9" />
+<text text-anchor="middle" x="1000" y="150" fill="black" font-size="15px">159687</text>
+<line x1="1000" y1="200" x2="1015" y2="200" stroke="blue" stroke-width="1" />
+<circle cx="1015" cy="200" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:1.000000;stroke-opacity:0.9" />
+<text text-anchor="middle" x="1015" y="201" fill="black" font-size="8px">1</text>
+<text text-anchor="left" x="1000" y="310" fill="black" font-size="10px">159687.0</text>
+<line x1="1000" y1="200" x2="989" y2="177" stroke="blue" stroke-width="1" />
+<circle cx="989" cy="177" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.680493;stroke-opacity:0.9" />
+<text text-anchor="middle" x="989" y="178" fill="black" font-size="8px">2</text>
+<text text-anchor="left" x="1000" y="320" fill="black" font-size="10px">178912.0</text>
+<line x1="1000" y1="200" x2="957" y2="207" stroke="blue" stroke-width="1" />
+<circle cx="957" cy="207" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.470934;stroke-opacity:0.9" />
+<text text-anchor="middle" x="957" y="208" fill="black" font-size="8px">3</text>
+<text text-anchor="left" x="1000" y="330" fill="black" font-size="10px">37971.0</text>
+<line x1="1000" y1="200" x2="958" y2="203" stroke="blue" stroke-width="1" />
+<circle cx="958" cy="203" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.486938;stroke-opacity:0.9" />
+<text text-anchor="middle" x="958" y="204" fill="black" font-size="8px">4</text>
+<text text-anchor="left" x="1000" y="340" fill="black" font-size="10px">179315.0</text>
+<line x1="1000" y1="200" x2="957" y2="206" stroke="blue" stroke-width="1" />
+<circle cx="957" cy="206" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.475185;stroke-opacity:0.9" />
+<text text-anchor="middle" x="957" y="207" fill="black" font-size="8px">5</text>
+<text text-anchor="left" x="1000" y="350" fill="black" font-size="10px">31715.0</text>
+<line x1="1000" y1="200" x2="958" y2="205" stroke="blue" stroke-width="1" />
+<circle cx="958" cy="205" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.477827;stroke-opacity:0.9" />
+<text text-anchor="middle" x="958" y="206" fill="black" font-size="8px">6</text>
+<text text-anchor="left" x="1000" y="360" fill="black" font-size="10px">112719.0</text>
+<line x1="1000" y1="200" x2="979" y2="179" stroke="blue" stroke-width="1" />
+<circle cx="979" cy="179" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.623868;stroke-opacity:0.9" />
+<text text-anchor="middle" x="979" y="180" fill="black" font-size="8px">7</text>
+<text text-anchor="left" x="1000" y="370" fill="black" font-size="10px">636.0</text>
+<line x1="1000" y1="200" x2="958" y2="204" stroke="blue" stroke-width="1" />
+<circle cx="958" cy="204" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.481368;stroke-opacity:0.9" />
+<text text-anchor="middle" x="958" y="205" fill="black" font-size="8px">8</text>
+<text text-anchor="left" x="1000" y="380" fill="black" font-size="10px">73026.0</text>
+<line x1="1000" y1="200" x2="968" y2="186" stroke="blue" stroke-width="1" />
+<circle cx="968" cy="186" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.563563;stroke-opacity:0.9" />
+<text text-anchor="middle" x="968" y="187" fill="black" font-size="8px">9</text>
+<text text-anchor="left" x="1000" y="390" fill="black" font-size="10px">30718.0</text>
+<line x1="1000" y1="200" x2="956" y2="217" stroke="blue" stroke-width="1" />
+<circle cx="956" cy="217" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.437515;stroke-opacity:0.9" />
+<text text-anchor="middle" x="956" y="218" fill="black" font-size="8px">10</text>
+<text text-anchor="left" x="1000" y="400" fill="black" font-size="10px">103183.0</text>
+<line x1="1000" y1="200" x2="972" y2="254" stroke="blue" stroke-width="1" />
+<circle cx="972" cy="254" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.323418;stroke-opacity:0.9" />
+<text text-anchor="middle" x="972" y="255" fill="black" font-size="8px">11</text>
+<text text-anchor="left" x="1000" y="410" fill="black" font-size="10px">22952.0</text>
+<line x1="1000" y1="200" x2="964" y2="244" stroke="blue" stroke-width="1" />
+<circle cx="964" cy="244" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.356844;stroke-opacity:0.9" />
+<text text-anchor="middle" x="964" y="245" fill="black" font-size="8px">12</text>
+<text text-anchor="left" x="1000" y="420" fill="black" font-size="10px">143916.0</text>
+<line x1="1000" y1="200" x2="960" y2="236" stroke="blue" stroke-width="1" />
+<circle cx="960" cy="236" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.380376;stroke-opacity:0.9" />
+<text text-anchor="middle" x="960" y="237" fill="black" font-size="8px">13</text>
+<text text-anchor="left" x="1000" y="430" fill="black" font-size="10px">15391.0</text>
+<line x1="1000" y1="200" x2="1020" y2="275" stroke="blue" stroke-width="1" />
+<circle cx="1020" cy="275" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.207554;stroke-opacity:0.9" />
+<text text-anchor="middle" x="1020" y="276" fill="black" font-size="8px">14</text>
+<text text-anchor="left" x="1000" y="440" fill="black" font-size="10px">112422.0</text>
+<line x1="1000" y1="200" x2="1043" y2="272" stroke="blue" stroke-width="1" />
+<circle cx="1043" cy="272" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.164097;stroke-opacity:0.9" />
+<text text-anchor="middle" x="1043" y="273" fill="black" font-size="8px">15</text>
+<text text-anchor="left" x="1000" y="450" fill="black" font-size="10px">139850.0</text>
+<line x1="1000" y1="200" x2="1003" y2="272" stroke="blue" stroke-width="1" />
+<circle cx="1003" cy="272" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.241856;stroke-opacity:0.9" />
+<text text-anchor="middle" x="1003" y="273" fill="black" font-size="8px">16</text>
+<text text-anchor="left" x="1000" y="460" fill="black" font-size="10px">158329.0</text>
+<line x1="1000" y1="200" x2="1018" y2="274" stroke="blue" stroke-width="1" />
+<circle cx="1018" cy="274" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.210971;stroke-opacity:0.9" />
+<text text-anchor="middle" x="1018" y="275" fill="black" font-size="8px">17</text>
+<text text-anchor="left" x="1000" y="470" fill="black" font-size="10px">99329.0</text>
+<line x1="1000" y1="200" x2="1014" y2="274" stroke="blue" stroke-width="1" />
+<circle cx="1014" cy="274" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.220047;stroke-opacity:0.9" />
+<text text-anchor="middle" x="1014" y="275" fill="black" font-size="8px">18</text>
+<text text-anchor="left" x="1000" y="480" fill="black" font-size="10px">28863.0</text>
+<line x1="1000" y1="200" x2="1014" y2="274" stroke="blue" stroke-width="1" />
+<circle cx="1014" cy="274" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.219894;stroke-opacity:0.9" />
+<text text-anchor="middle" x="1014" y="275" fill="black" font-size="8px">19</text>
+<text text-anchor="left" x="1000" y="490" fill="black" font-size="10px">113894.0</text>
+<line x1="1000" y1="200" x2="1087" y2="248" stroke="blue" stroke-width="1" />
+<circle cx="1087" cy="248" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.080238;stroke-opacity:0.9" />
+<text text-anchor="middle" x="1087" y="249" fill="black" font-size="8px">20</text>
+<text text-anchor="left" x="1000" y="500" fill="black" font-size="10px">113894.0</text>
+<line x1="1000" y1="200" x2="1041" y2="273" stroke="blue" stroke-width="1" />
+<circle cx="1041" cy="273" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.167415;stroke-opacity:0.9" />
+<text text-anchor="middle" x="1041" y="274" fill="black" font-size="8px">21</text>
+<text text-anchor="left" x="1000" y="510" fill="black" font-size="10px">165621.0</text>
+<line x1="1000" y1="200" x2="1010" y2="273" stroke="blue" stroke-width="1" />
+<circle cx="1010" cy="273" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.227980;stroke-opacity:0.9" />
+<text text-anchor="middle" x="1010" y="274" fill="black" font-size="8px">22</text>
+<text text-anchor="left" x="1000" y="520" fill="black" font-size="10px">59059.0</text>
+<line x1="1000" y1="200" x2="1017" y2="274" stroke="blue" stroke-width="1" />
+<circle cx="1017" cy="274" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.212609;stroke-opacity:0.9" />
+<text text-anchor="middle" x="1017" y="275" fill="black" font-size="8px">23</text>
+<text text-anchor="left" x="1000" y="530" fill="black" font-size="10px">17111.0</text>
+<line x1="1000" y1="200" x2="1009" y2="273" stroke="blue" stroke-width="1" />
+<circle cx="1009" cy="273" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.229300;stroke-opacity:0.9" />
+<text text-anchor="middle" x="1009" y="274" fill="black" font-size="8px">24</text>
+<text text-anchor="left" x="1000" y="540" fill="black" font-size="10px">66942.0</text>
+<line x1="1000" y1="200" x2="1056" y2="268" stroke="blue" stroke-width="1" />
+<circle cx="1056" cy="268" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.140011;stroke-opacity:0.9" />
+<text text-anchor="middle" x="1056" y="269" fill="black" font-size="8px">25</text>
+<text text-anchor="left" x="1000" y="550" fill="black" font-size="10px">70334.0</text>
+<line x1="1000" y1="200" x2="1098" y2="235" stroke="blue" stroke-width="1" />
+<circle cx="1098" cy="235" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.055284;stroke-opacity:0.9" />
+<text text-anchor="middle" x="1098" y="236" fill="black" font-size="8px">26</text>
+<text text-anchor="left" x="1000" y="560" fill="black" font-size="10px">99175.0</text>
+<line x1="1000" y1="200" x2="1068" y2="262" stroke="blue" stroke-width="1" />
+<circle cx="1068" cy="262" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.117448;stroke-opacity:0.9" />
+<text text-anchor="middle" x="1068" y="263" fill="black" font-size="8px">27</text>
+<text text-anchor="left" x="1000" y="570" fill="black" font-size="10px">6921.0</text>
+<line x1="1000" y1="200" x2="1103" y2="227" stroke="blue" stroke-width="1" />
+<circle cx="1103" cy="227" r="5"               style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.041625;stroke-opacity:0.9" />
+<text text-anchor="middle" x="1103" y="228" fill="black" font-size="8px">28</text>
+<text text-anchor="left" x="1000" y="580" fill="black" font-size="10px">45219.0</text>
+<circle cx="1000" cy="200" r="10"               style="fill:red;stroke:black;stroke-width:1;fill-opacity:1.000000;stroke-opacity:0.9" />
+</svg>

@@ -1,0 +1,13 @@
+$def with (chromosome_list,form)
+
+<h1> Chlamydomonas reinhardtii sequence extractor </h1>
+
+<form action="" method="post">
+$:form.render()
+</form>
+
+<h1>Use following chromosomes</h1>
+<code>
+$for chromosome in chromosome_list:
+    $chromosome
+</code>

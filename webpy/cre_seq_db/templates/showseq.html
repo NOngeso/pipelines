@@ -1,0 +1,17 @@
+$def with (seqs,form)
+
+<FIELDSET stype="PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; MARGIN: 0px; LINE-HEIGHT: 20pt; WIDTH: 400px; PADDING TOP: 0px; TEXT-ALIGN: "left" border="0">
+<LEGEND style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px"> 
+[requested sequence]
+</LEGEND>
+<pre>
+$for seq in seqs:
+	$seq
+</pre>
+</FIELDSET>
+
+
+
+<form action="" method="post">
+$:form.render()
+</form>

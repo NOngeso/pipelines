@@ -1,0 +1,67 @@
+<svg height="300" width="300">
+<line x1="150" y1="150" x2="165" y2="150" stroke="blue" stroke-width="1" />
+<circle cx="165" cy="150" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:1.000000;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="83" y2="164" stroke="blue" stroke-width="1" />
+<circle cx="83" cy="164" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.465954;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="96" y2="126" stroke="blue" stroke-width="1" />
+<circle cx="96" cy="126" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.567549;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="84" y2="150" stroke="blue" stroke-width="1" />
+<circle cx="84" cy="150" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.498883;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="87" y2="188" stroke="blue" stroke-width="1" />
+<circle cx="87" cy="188" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.412604;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="98" y2="209" stroke="blue" stroke-width="1" />
+<circle cx="98" cy="209" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.362636;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="104" y2="216" stroke="blue" stroke-width="1" />
+<circle cx="104" cy="216" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.344828;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="85" y2="184" stroke="blue" stroke-width="1" />
+<circle cx="85" cy="184" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.421491;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="94" y2="204" stroke="blue" stroke-width="1" />
+<circle cx="94" cy="204" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.376498;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="95" y2="205" stroke="blue" stroke-width="1" />
+<circle cx="95" cy="205" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.372366;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="83" y2="171" stroke="blue" stroke-width="1" />
+<circle cx="83" cy="171" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.449513;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="96" y2="206" stroke="blue" stroke-width="1" />
+<circle cx="96" cy="206" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.371272;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="83" y2="167" stroke="blue" stroke-width="1" />
+<circle cx="83" cy="167" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.458234;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="107" y2="219" stroke="blue" stroke-width="1" />
+<circle cx="107" cy="219" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.337355;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="89" y2="194" stroke="blue" stroke-width="1" />
+<circle cx="89" cy="194" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.398445;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="116" y2="226" stroke="blue" stroke-width="1" />
+<circle cx="116" cy="226" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.316445;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="99" y2="210" stroke="blue" stroke-width="1" />
+<circle cx="99" cy="210" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.361971;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="106" y2="218" stroke="blue" stroke-width="1" />
+<circle cx="106" cy="218" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.340574;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="155" y2="240" stroke="blue" stroke-width="1" />
+<circle cx="155" cy="240" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.240243;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="161" y2="241" stroke="blue" stroke-width="1" />
+<circle cx="161" cy="241" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.229420;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="104" y2="216" stroke="blue" stroke-width="1" />
+<circle cx="104" cy="216" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.346188;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="108" y2="220" stroke="blue" stroke-width="1" />
+<circle cx="108" cy="220" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.335424;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="174" y2="240" stroke="blue" stroke-width="1" />
+<circle cx="174" cy="240" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.207859;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="116" y2="226" stroke="blue" stroke-width="1" />
+<circle cx="116" cy="226" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.315304;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="233" y2="213" stroke="blue" stroke-width="1" />
+<circle cx="233" cy="213" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.103529;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="124" y2="231" stroke="blue" stroke-width="1" />
+<circle cx="124" cy="231" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.297527;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="125" y2="231" stroke="blue" stroke-width="1" />
+<circle cx="125" cy="231" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.296315;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="169" y2="241" stroke="blue" stroke-width="1" />
+<circle cx="169" cy="241" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.215857;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="110" y2="221" stroke="blue" stroke-width="1" />
+<circle cx="110" cy="221" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.330677;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="134" y2="235" stroke="blue" stroke-width="1" />
+<circle cx="134" cy="235" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.279341;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="142" y2="238" stroke="blue" stroke-width="1" />
+<circle cx="142" cy="238" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.262851;stroke-opacity:0.9" />
+<line x1="150" y1="150" x2="236" y2="210" stroke="blue" stroke-width="1" />
+<circle cx="236" cy="210" r="5"           style="fill:green;stroke:black;stroke-width:1;fill-opacity:0.097669;stroke-opacity:0.9" />
+<circle cx="150" cy="150" r="10"           style="fill:red;stroke:black;stroke-width:1;fill-opacity:1.000000;stroke-opacity:0.9" />
+</svg>
