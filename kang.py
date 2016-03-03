@@ -1,3 +1,5 @@
+from __future__ import print_function
+
 
 gencode = {
     'ATA':'I', 'ATC':'I', 'ATT':'I', 'ATG':'M',
@@ -67,6 +69,15 @@ def Fasta2dic_all(file_fasta):
 		strSeq = ''.join(each.split('\n')[1:])
 		dic[strHD] = strSeq
 	return(dic)
+
+def dic2fa(dic,filename):
+	Outfile = open(filename,'w')
+	for key in dic:
+		print('>'+key,file=Outfile)
+		print(dic[key],file=Outfile)
+	Outfile.close()
+
+		
 
 
 
