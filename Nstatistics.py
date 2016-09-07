@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # description : calculate N 50 value of assembly in fasta 
 # usage       : python3 [thisfile] [fasta]
-
+from __future__ import print_function
 import sys,kang
 
 file_fa = sys.argv[1] # fasta

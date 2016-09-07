@@ -1,6 +1,77 @@
 from __future__ import print_function
+import numpy as np
+## retrieve blocks with continuously have values that are larger than depth_cut in array.
+def get_block(array,depth_cut=10,lim_len_block=100):
+    block_list = []
+    #print(len(np.shape(array)))
+    if len(np.shape(array)) == 1:
+        rows = 1
+        block = []
+        for n,j in enumerate(array):
+            if j > depth_cut:
+                block.append(n)
+            else:
+                if len(block) > lim_len_block:
+                    block_list.append([block[0],block[-1]])
+                    block = []
+                else:
+                    block = []
+        if len(block) > 0:
+            block_list.append([block[0],block[-1]])
+    else: 
+        rows, columns = np.shape(array)       
+        for i in range(rows):
+            earray = array[i]
+            block = []
+            for n,j in enumerate(earray):
+                if j > depth_cut:
+                    block.append(n)
+                else:
+                    if len(block) > lim_len_block:
+                        block_list.append([i,block[0],block[-1]])
+                        block = []
+                    else:
+                        block = []
+        if len(block) > 0:
+            block_list.append([block[0],block[-1]])
+    return block_list
+
+#0.read paired
+#1.read mapped in proper pair
+#2.read unmapped
+#3.mate unmapped
+#4.read reverse strand
+#5.mate reverse strand
+#6.first in pair
+#7.second in pair
+#8.not primary alignment
+#9.read fails platform/vendor quality checks
+#10.read is PCR or optical duplicate
+#11.supplementary alignment
 
 
+def flagparser(intFlag):
+    dic_key = ['supplementary alignment','read is PCR or optical duplicate','read fails platform/vendor quality checks',\
+               'not primary alignment','second in pair','first in pair','mate reverse strand','read reverse strand','mate unmapped',\
+              'read unmapped','read mapped in proper pair','read paired']
+    bFlag     = "{0:b}".format(intFlag)
+    addzero   = '0'*(12-len(bFlag))
+    dic_value = list(addzero+bFlag)
+    #print (addzero+bFlag)
+    return(dict(zip(dic_key,map(int,dic_value))))
+
+def list2txt(outfilename,inlist):
+    Outfile = open(outfilename,'w')
+    for each in inlist:
+        print(each,file=Outfile)
+    Outfile.close()
+
+def infoparse(x):
+    key   = [i.split('=')[0] for i in x.split(';')]
+    value = [i.split('=')[1] for i in x.split(';')]
+    return dict(zip(key,value))
+    
+    
 gencode = {
     'ATA':'I', 'ATC':'I', 'ATT':'I', 'ATG':'M',
     'ACA':'T', 'ACC':'T', 'ACG':'T', 'ACT':'T',

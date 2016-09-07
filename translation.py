@@ -1,7 +1,7 @@
 #!/usr/bin/python3 
 # description : CDS to protein 
 # usage       : python3 [thisfile] [fasta] [outfile]
-
+from __future__ import print_function
 import kang,sys
 
 dicHD2seq = kang.Fasta2dic(sys.argv[1])
