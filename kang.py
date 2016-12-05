@@ -26,8 +26,8 @@ def seq_comp(list_label,list_seq,Outfile,linecut=100):
     #print(mask.nonzero()[0])
     for n,line in enumerate(list_wrap[0]):
         for m,seq in enumerate(list_wrap):
-            print (list_label[m],seq[n],sep='\t',file=Outfile)
-        print (' '*len(list_label[0]),c[n],sep='\t',file=Outfile)
+            print ('%20s'%list_label[m],seq[n],file=Outfile)
+        print (' '*20,c[n],file=Outfile)
     return(mask.nonzero()[0])
 
 
