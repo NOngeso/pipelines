@@ -1,5 +1,39 @@
 from __future__ import print_function
 import numpy as np
+
+def txtwrap(seq,linecut):
+    outlist = []
+    r = len(seq)/linecut
+    for i in range(r+1):
+        try:
+            outlist.append(seq[i*linecut:(i+1)*linecut])
+        except IndexError:
+            if len(seq[i*linecut:]) > 0:
+                outlist.append(seq[i*linecut:])
+    return outlist
+
+def seq_comp(list_label,list_seq,Outfile,linecut=100):
+    list_array_seq = [np.array(list(x)) for x in list_seq]
+    mask = np.zeros(len(list_seq[0]),dtype=bool)
+    for n,array_seq in enumerate(list_array_seq):
+        if n == len(list_array_seq)-1:
+            continue
+        array_seq2 = list_array_seq[n+1]
+        mask += (array_seq != array_seq2)
+    list_wrap = [txtwrap.wrap(x,linecut) for x in list_seq]
+    c  = txtwrap.wrap(''.join(['.' if x == False else '*' for x in mask]),linecut)
+    #print(list_label,list_wrap)
+    #print(mask.nonzero()[0])
+    for n,line in enumerate(list_wrap[0]):
+        for m,seq in enumerate(list_wrap):
+            print (list_label[m],seq[n],file=Outfile)
+        print (' '*len(list_label[0]),c[n],file=Outfile)
+    return(mask.nonzero()[0])
+
+
+
+
+
 ## retrieve blocks with continuously have values that are larger than depth_cut in array.
 def get_block(array,depth_cut=10,lim_len_block=100):
     block_list = []
