@@ -20,8 +20,8 @@ def seq_comp(list_label,list_seq,Outfile,linecut=100):
             continue
         array_seq2 = list_array_seq[n+1]
         mask += (array_seq != array_seq2)
-    list_wrap = [txtwrap.wrap(x,linecut) for x in list_seq]
-    c  = txtwrap.wrap(''.join(['.' if x == False else '*' for x in mask]),linecut)
+    list_wrap = [txtwrap(x,linecut) for x in list_seq]
+    c  = txtwrap(''.join(['.' if x == False else '*' for x in mask]),linecut)
     #print(list_label,list_wrap)
     #print(mask.nonzero()[0])
     for n,line in enumerate(list_wrap[0]):
